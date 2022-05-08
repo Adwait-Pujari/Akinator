@@ -1,0 +1,14 @@
+< Is it an animal?
+< Is it a mammal?
+< human
+> 
+< shark
+> 
+> 
+< Is it a plant?
+< carrot
+>
+< diamond
+>
+> 
+> 
