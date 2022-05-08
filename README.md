@@ -11,17 +11,14 @@ Created A mini Akinator using binary tree which has limited number of options.</
 A **java** file is provided named akinator, and another text file is provided. </br>
 The text file is in format which stores a set of Question and Answer. </br> 
 The text file is in format : </br>
-<</br>
-<</br>
-[Question]</br>
-> </br>
 < </br>
-[Option A] </br>
-> </br>
 < </br>
-[Option B] </br>
-> </br>
-> </br>
+[Question]</br> >
+</br> < </br>
+[Option A] </br> >
+</br> < </br>
+[Option B] </br> >
+</br> > </br> 
 
 "<" Determines the opening bracket ">" Determines the closing bracket. The content inside the <> brackets are Questions or Answer.
 
