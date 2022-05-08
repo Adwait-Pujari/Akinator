@@ -1,11 +1,3 @@
-/********************************
- * ReadMe TEXT
- *
- *
- * Name: Adwait Pujari
- * Student ID: 7924422
- * Assignment 4
- ********************************/
 import javax.swing.*;
 import java.io.*;
 import java.util.Scanner;
